@@ -1,6 +1,8 @@
-#  Real-Time Stock Market Insights Pipeline (Simulated HFT)
+#  Real-Time Stock Market Insights Pipeline (Simulated HFT) Phase 2
 
-A scalable real-time data engineering pipeline that ingests stock market data using Kafka, processes it with Apache Spark, and persists it to a SQL Server database — all deployed on Google Cloud Platform (GCP). Designed to simulate the data flow and insights of high-frequency trading (HFT) systems.
+This project is a continuation of an earlier phase where the Kafka server and basic producer-consumer setup were implemented for streaming stock market data. In this second phase, we extend the pipeline by integrating Apache Spark Structured Streaming for real-time processing and persisting the transformed data into a SQL Server database.
+
+The overall goal is to build a robust, scalable data pipeline that ingests live stock market data, processes it with minimal latency, and stores it for further analytics and visualization.
 
 ---
 
@@ -12,7 +14,7 @@ The entire setup is built from scratch using virtual machines and Dataproc clust
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Data Ingestion**: Yahoo Finance API
 - **Streaming Platform**: Apache Kafka (with Zookeeper)
