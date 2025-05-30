@@ -29,7 +29,7 @@ The entire setup is built from scratch using virtual machines and Dataproc clust
 
 ##  Architecture
 
-![Architecture]("C:\Users\Anant2005\Downloads\ChatGPT Image May 29, 2025, 03_38_44 PM.png")
+![ChatGPT Image May 29, 2025, 03_38_44 PM](https://github.com/user-attachments/assets/9fb2b9bc-ab41-4b02-b4a0-4b7d0f6c6ff1)
 
 ---
 
