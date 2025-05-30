@@ -27,13 +27,13 @@ The entire setup is built from scratch using virtual machines and Dataproc clust
 
 ---
 
-## 🧠 Architecture
+##  Architecture
 
 ![Architecture](path/to/your/architecture/image.png)
 
 ---
 
-## 📌 Use Cases
+##  Use Cases
 
 - Simulate a **High-Frequency Trading (HFT)** data pipeline.
 - Build real-time **dashboards or alerts** based on market movements.
@@ -55,7 +55,7 @@ Despite these, the project remains fully functional and scalable with minor adju
 
 ---
 
-## ⚠ Known Limitations / Cons
+##  Known Limitations / Cons
 
 - **Single Zookeeper & Kafka node** — No replication or fault tolerance.
 - **Manual configuration** of internal/external IPs and NAT was required for component communication.
