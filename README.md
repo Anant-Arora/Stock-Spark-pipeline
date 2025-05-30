@@ -29,7 +29,7 @@ The entire setup is built from scratch using virtual machines and Dataproc clust
 
 ##  Architecture
 
-![Architecture](path/to/your/architecture/image.png)
+![Architecture]("C:\Users\Anant2005\Downloads\ChatGPT Image May 29, 2025, 03_38_44 PM.png")
 
 ---
 
